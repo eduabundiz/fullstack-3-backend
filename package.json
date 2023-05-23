@@ -8,7 +8,7 @@
     "test": "jest --watch",
     "start": "node app.js",
     "start:dev": "nodemon app.js",
-    "test-ci": "jest --verbose --forceExit",
+    "test-ci": "jest --verbose --forceExit"
   },
   "author": "",
   "license": "ISC",
